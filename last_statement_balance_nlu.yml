@@ -2,8 +2,8 @@ version: '3.1'
 nlu:
   - intent: LastStatementBalance
     examples: |
-  - amount due
-  - amountdue
+      - amount due
+      - amountdue
       - What's the balance on my last statement?
       - Can you give me the balance for my last statement?
       - How much do I owe on my last statement?
