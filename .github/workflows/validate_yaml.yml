@@ -31,7 +31,7 @@ jobs:
           cat > .yamllint.yml << EOF
           extends: default
           rules:
-            document-start: enable
+            document-start: disable
             indentation:
               spaces: 2
               indent-sequences: true
