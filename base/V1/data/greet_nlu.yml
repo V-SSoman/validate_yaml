@@ -1,0 +1,22 @@
+version: '3.1'
+nlu:
+  - intent: greet
+    examples: |
+      - salutations
+      - hey buddy
+      - hi, how are you?
+      - hello again
+      - greetings
+      - hey
+      - hello
+      - hi there
+      - good evening
+      - just saying hi
+      - what's up?
+      - hey there
+      - nice to see you
+      - howdy
+      - hi
+      - good afternoon
+      - good morning
+      - hey, how's it going?

@@ -1,0 +1,13 @@
+version: '3.1'
+nlu:
+  - intent: bot_challenge
+    examples: |
+      - am I talking to a robot?
+      - who am I chatting with?
+      - are you AI?
+      - is this an automated system?
+      - is this artificial intelligence?
+      - is this a chatbot?
+      - are you a real person?
+      - are you a bot?
+      - are you human?

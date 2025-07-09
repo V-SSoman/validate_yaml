@@ -1,0 +1,19 @@
+version: '3.1'
+nlu:
+  - intent: goodbye
+    examples: |
+      - I'm signing off
+      - bye
+      - have a nice day
+      - talk to you later
+      - I'm done here
+      - no more questions
+      - I don't need anything else
+      - see you later
+      - see you around
+      - all set, thanks
+      - that's all for now
+      - take care
+      - I'm out
+      - thanks, that'll be all
+      - goodbye

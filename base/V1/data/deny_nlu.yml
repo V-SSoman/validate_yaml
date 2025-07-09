@@ -1,0 +1,19 @@
+version: '3.1'
+nlu:
+  - intent: deny
+    examples: |
+      - no, that’s not right
+      - not really
+      - I’d rather not
+      - nope
+      - no, thank you
+      - no, still unclear
+      - I don't think so
+      - I’m good
+      - never mind
+      - cancel that
+      - not exactly
+      - that's not what I meant
+      - no
+      - no, I'm all sety
+      - I'm fine

@@ -1,0 +1,28 @@
+version: "3.1"
+
+stories:
+
+  - story: get last statement details
+    steps:
+      - intent: LastStatementDetails
+      - action: action_last_statement_details
+
+  - story: get last statement balance
+    steps:
+      - intent: LastStatementBalance
+      - action: action_last_statement_balance
+
+  - story: thanks for the assistance
+    steps:
+      - intent: thank
+      - action: utter_you_are_welcome
+
+  - story: greeting
+    steps:
+      - intent: greet
+      - action: utter_greet
+
+  - story: deny the assistance
+    steps:
+      - intent: deny
+      - action: utter_goodbye

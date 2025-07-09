@@ -1,0 +1,16 @@
+version: '3.1'
+
+nlu:
+  - intent: thank
+    examples: |
+      - many thanks
+      - thanks for your help
+      - much appreciated
+      - thanks
+      - I appreciate it
+      - thank you
+      - thank you so much
+      - appreciate the help
+      - thank you very much
+      - thanks again
+      - thanks a lot

@@ -1,0 +1,20 @@
+version: '3.1'
+nlu:
+  - intent: nlu_fallback
+    examples: |
+      - Who is the president of XYZ
+      - [insert confusion]
+      - qwertyuiop
+      - What's the capital of Mars?
+      - I need a lawyer.
+      - asdfghjk
+      - ?????
+      - How do I fix my car?
+      - Tell me a joke.
+      - What's the time in Tokyo?
+      - Can you book a flight?
+      - I want to order pizza.
+      - blah blah blah
+      - I don’t even know what I’m saying
+      - Play some music.
+      - what even is this?
