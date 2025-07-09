@@ -27,7 +27,7 @@ action_endpoint:
 tracker_store:
   url: localhost
   type: tracker_store.custom_dynamodb_tracker_store.CustomDynamoDBTrackerStore
- 
+
 # tracker_store:
 #    type: mongod
 #    url: <url to your mongo instance, e.g. mongodb://localhost:27017>

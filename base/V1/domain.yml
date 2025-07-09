@@ -17,19 +17,19 @@ actions:
   - action_log_fallback
 
 responses:
-  
+
   utter_you_are_welcome:
     - text: "Of course!  Is there anything else I can help you with today?"
     - text: "You're welcome!  Is there anything else I can assist you with today?"
     - text: "No problem!  Is there anything else I can help you with today?"
-  
+
   utter_more_questions:
     - text: "Is there anything else I can help you with today? I'm here to assist with any other questions you may have!"
     - text: "What other questions can I answer for you? I'm happy to help with anything else!"
     - text: "Is there anything else you'd like to know? I'm here to help with any other questions!"
     - text: "What other information would be helpful? I'd love to assist you further!"
     - text: "Do you have any other questions? I'm happy to help with anything else you need!"
-    
+
   utter_greet:
     - text: "Hello! How can I assist you today?"
     - text: "Hi there! What can I help you with today?"
