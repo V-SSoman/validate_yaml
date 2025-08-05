@@ -19,9 +19,9 @@ actions:
 responses:
 
   utter_you_are_welcome:
-    - text: "Of course!  Is there anything else I can help you with today?"
-    - text: "You're welcome!  Is there anything else I can assist you with today?"
-    - text: "No problem!  Is there anything else I can help you with today?"
+  - text: "Of course!  Is there anything else I can help you with today?"
+  - text: "You're welcome!  Is there anything else I can assist you with today?"
+  - text: "No problem!  Is there anything else I can help you with today?"
 
   utter_more_questions:
     - text: "Is there anything else I can help you with today? I'm here to assist with any other questions you may have!"
