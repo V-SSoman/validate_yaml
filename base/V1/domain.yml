@@ -36,7 +36,7 @@ responses:
 
   utter_happy:
     - text: "Great, carry on!"
-
+  
   utter_goodbye:
     - text: "Bye"
     - text: "Of course, If you need anything, feel free to ask."
